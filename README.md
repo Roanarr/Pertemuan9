@@ -1,4 +1,5 @@
 Nama = input("Masukkan Nama : ")
+
 Nim = input("Masukkan NIM: ")
 Matkul =input("Masukkan Mata Kuliah : ")
 Absen = float(input("Masukkan Nilai Absensi : "))
