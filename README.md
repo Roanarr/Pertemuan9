@@ -1,5 +1,7 @@
+###Hasil dan flowchart
 ![pemrograman](https://user-images.githubusercontent.com/118960008/203720888-8cdc97d8-73aa-4226-b50b-8e83f6eef102.jpeg)
 ![TUGAS PEMROGRSMAN 9](https://user-images.githubusercontent.com/118960008/203720806-af8ae677-9c60-4e22-a526-8a12dd5e8f17.png)
+###Penginputan
 Nama = input("Masukkan Nama : ")
 
 Nim = input("Masukkan NIM: ")
