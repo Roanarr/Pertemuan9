@@ -1,3 +1,4 @@
+![TUGAS PEMROGRSMAN 9](https://user-images.githubusercontent.com/118960008/203720806-af8ae677-9c60-4e22-a526-8a12dd5e8f17.png)
 Nama = input("Masukkan Nama : ")
 
 Nim = input("Masukkan NIM: ")
